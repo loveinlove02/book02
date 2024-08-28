@@ -18,7 +18,7 @@ pip install firebase_admin <br>
 pip install pillow <br>
 
 ## 라이브러리 설치 (도서관 관리자 프로그램)
-### py -3.9 -m venv venv <br>
+### py -3.11 -m venv venv <br>
 
 pip install numpy==1.26.4 <br>
 pip install opencv-contrib-python <br>
