@@ -1,0 +1,133 @@
+{
+  "abc": {
+    "u_001": {
+      "date": "\"2024년 06월 29일 오후 06시18분 45\"",
+      "id": "\"au_002b\""
+    },
+    "u_002": {
+      "date": "a202406281900b",
+      "id": "u_002"
+    }
+  },
+  "check": {
+    "on": "N"
+  },
+  "library": {
+    "book": {
+      "9791160505856": {
+        "access_number": "CRX000029216",
+        "author": "이승찬",
+        "borrow_date": "2024-08-28 18:55",
+        "borrow_state": "Y",
+        "borrower_id": "stud_24_0001",
+        "call_number": "일 005.12-이58ㅁ",
+        "image": "https://shopping-phinf.pstatic.net/main_3246398/32463987904.20230801121745.jpg",
+        "isbn": 9791160505856,
+        "location": "첫 번째 책장 두 번 째 열",
+        "publisher": "길벗 2017",
+        "title": "모두의 파이썬"
+      },
+      "9791160506822": {
+        "access_number": "CLP000197301",
+        "author": "이병승",
+        "borrow_date": "N",
+        "borrow_state": "N",
+        "borrower_id": "N",
+        "call_number": "일 005.138-이44ㅈ",
+        "image": "https://shopping-phinf.pstatic.net/main_3245596/32455968757.20231214075758.jpg",
+        "isbn": "9791160506822",
+        "location": "첫 번째 책장 두 번 째 열",
+        "publisher": "길벗 2019",
+        "title": "자바 웹을 다루는 기술"
+      },
+      "9791169210028": {
+        "access_number": "abcde",
+        "author": "이우진",
+        "borrow_date": "N",
+        "borrow_state": "N",
+        "borrower_id": "N",
+        "call_number": "sfsdf",
+        "image": "https://shopping-phinf.pstatic.net/main_3423859/34238594620.20230620094626.jpg",
+        "isbn": "9791169210028",
+        "location": "두 번째 책장 세 번 째 열",
+        "publisher": "한빛미디어 20220905",
+        "title": "이것이 자바 스크립트다 "
+      },
+      "9791169211901": {
+        "access_number": "CLP000204092",
+        "author": "신용권",
+        "borrow_date": "N",
+        "borrow_state": "N",
+        "borrower_id": "N",
+        "call_number": "일 005.138-신66ㅎ",
+        "image": "https://shopping-phinf.pstatic.net/main_4554322/45543229620.20240201090908.jpg",
+        "isbn": 9791169211901,
+        "location": "세 번째 책장 두 번 째 열",
+        "publisher": "한빛미디어 2019",
+        "title": "혼자 공부하는 자바"
+      },
+      "9791169212274": {
+        "access_number": "CLP000116210",
+        "author": "신용권",
+        "borrow_date": "2024-08-27 19:54",
+        "borrow_state": "Y",
+        "borrower_id": "stud_24_0001",
+        "call_number": "일 005.133-신66ㅇ",
+        "image": "https://shopping-phinf.pstatic.net/main_3423859/34238594620.20230620094626.jpg",
+        "isbn": 9791169212274,
+        "location": "첫 번째 책장 세 번 째 열",
+        "publisher": "한빛미디어 2015",
+        "title": "이것이 자바다"
+      },
+      "9791186697726": {
+        "access_number": "CLP000178588",
+        "author": "문용준",
+        "borrow_date": "N",
+        "borrow_state": "N",
+        "borrower_id": "N",
+        "call_number": "일 005.133-문66ㅅ",
+        "image": "https://shopping-phinf.pstatic.net/main_3249181/32491817844.20230131165255.jpg",
+        "isbn": 9791186697726,
+        "location": "세 번째 책장 두 번 째 열",
+        "publisher": "BJpublic(비제이퍼블릭) 2018",
+        "title": "손에잡히는 파이썬"
+      },
+      "9791187431169": {
+        "access_number": "aaa",
+        "author": "황덕창",
+        "borrow_date": "N",
+        "borrow_state": "N",
+        "borrower_id": "N",
+        "call_number": "abc",
+        "image": "https://shopping-phinf.pstatic.net/main_3246488/32464884961.20230906071437.jpg",
+        "isbn": "9791187431169",
+        "location": "두 번째 책장 세 번 째 열",
+        "publisher": "스포트라잇북 20190425",
+        "title": "작심 3일 파이썬 Python"
+      }
+    },
+    "member": {
+      "stud_24_0001": {
+        "class": "01",
+        "grade": "02",
+        "id": "stud_24_0001",
+        "name": "홍길동",
+        "num": "02",
+        "pw": "1234"
+      },
+      "stud_24_0002": {
+        "class": "02",
+        "grade": "01",
+        "id": "stud_24_0002",
+        "name": "이영희",
+        "num": "02",
+        "pw": "1234"
+      }
+    }
+  },
+  "temp": {
+    "led": "N",
+    "on_off": "\"aONb\"",
+    "temp": "28"
+  }
+}
