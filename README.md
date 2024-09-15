@@ -25,7 +25,6 @@ pip install opencv-contrib-python <br>
 pip install firebase_admin <br>
 pip install pillow <br>
 pip install requests <br>
-pip install PyNaver --upgrade
 pip install pandas <br>
 ## 라이브러리 설치 (도서관 챗봇 프로그램)
 ### py -3.11 -m venv venv <br>
