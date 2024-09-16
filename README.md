@@ -44,6 +44,7 @@ pip install -U langchain langchain-community langchain-experimental langchain-co
 python -m spacy download ko_core_news_sm <br>
 pip install tiktoken <br>
 pip install chromadb <br>
+pip install chardet <br>
 pip install streamlit <br>
 pip install streamlit-mic-recorder <br>
 pip install pyaudio <br>
